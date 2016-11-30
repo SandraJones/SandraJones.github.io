@@ -1,0 +1,71 @@
+h1 {
+	font-size: 40px;
+	font-weight: 900;
+	text-align: center;
+}
+h2 {
+	font-size: 30px;
+	font-weight: 900;
+	text-align: center;
+}
+p {
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+}
+body {
+	background: #d0feff;
+	/* #d0feff     bold   #A0F1FA*/
+}
+
+article {
+	text-align: center;
+	background-color: #fbffc5;
+	/*#f3fb71*/
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+}
+.contentOne {
+	font-size: 20px;
+	text-align: left;
+	font-weight: 500;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.thirdBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 2%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.fourthBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 2%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.secondBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 2%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.fifthBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 2%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.navwrapper {
+	color: #A0F1FA;
+}
