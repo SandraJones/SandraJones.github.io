@@ -16,6 +16,9 @@ p {
 body {
 	background: #d0feff;
 	/* #d0feff     bold   #A0F1FA*/
+	background-color: #00e8dc;
+	background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .container {
 	background-color: white;
@@ -76,4 +79,9 @@ article {
 }
 .navwrapper {
 	color: #A0F1FA;
+}
+nav {
+	background-color: #00e8dc;
+	background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
