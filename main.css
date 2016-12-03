@@ -17,6 +17,14 @@ body {
 	background: #d0feff;
 	/* #d0feff     bold   #A0F1FA*/
 }
+.container {
+	background-color: white;
+	width:70%;
+	border-color: black;
+}
+li {
+	color: black;
+}
 
 article {
 	text-align: center;
@@ -60,7 +68,7 @@ article {
 }
 .fifthBlock {
 	align-items: center;
-	width: 60%;
+	width: 50%;
 	margin-left: 20%;
 	margin-bottom: 2%;
 	padding-left: 10px;
