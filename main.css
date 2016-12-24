@@ -93,9 +93,11 @@ article {
 .black-text{
 	margin: 0 auto;	
 	text-align: center;
+	font-size: 14px;
 }
 .centerBottomLinks{
 	margin:0 auto;
+	text-align: center;
 }
 .projectContainer1{
 	background-color: #00e8dc;
