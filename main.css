@@ -76,7 +76,7 @@ article {
 	text-align: center;
 }
 .contentSmall {
-	font-size: 12px;
+	font-size: 14px;
 	text-align: left;
 	font-weight: 500;
 	padding-left: 10px;
@@ -90,8 +90,10 @@ article {
 	padding-left: 10px;
 	padding-right: 10px;
 }
-.centerBottomLinks {
-	align-items: center;
-	align-content: center;
-	
+.black-text{
+	margin: 0 auto;	
+	text-align: center;
+}
+.centerBottomLinks{
+	margin:0 auto;
 }
