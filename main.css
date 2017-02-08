@@ -100,8 +100,9 @@ article {
 	text-align: center;
 }
 .projectContainer1{
-	background-color: #00e8dc;
-	background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+	background-color: #d3d3d3;
+	
+	background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
 	margin:0 auto;
 	margin-bottom: 5px;
 	padding-bottom: 10px;
