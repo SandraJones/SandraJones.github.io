@@ -1,11 +1,11 @@
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 600;
   text-align: center;
 }
 h2 {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 600;
   text-align: center;
 }
@@ -21,7 +21,7 @@ body {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-image: url(FreeMountainPhoto.jpg);
+  background-image: url(Sunset-Cold-Mountains.jpg);
   text-align: center;
   color: white;
   font-family: sans-serif;
@@ -45,14 +45,14 @@ li {
 
 article {
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
 }
 .contentOne {
-  font-size: 14px;
+  font-size: 20px;
   text-align: left;
   font-weight: 500;
   padding-left: 10px;
-  padding-right: 10px;
+  padding-right: 10px
 }
 .thirdBlock {
   align-items: center;
@@ -69,6 +69,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
+  color:  #36454f;
 }
 .fifthBlock {
   align-items: center;
@@ -77,44 +78,45 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
-}
-.navwrapper {
-  color: black;
+  color: #36454f;
 }
 .footer {
   text-align: center;
 }
 .contentSmall {
-  font-size: 14px;
+  font-size: 20px;
   text-align: left;
   font-weight: 500;
   padding-left: 10px;
   padding-right: 10px;
 }
 .lastBlock {
-  width: 100%;
   align-items: center;
-  padding: auto;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .black-text{
   margin: 0 auto; 
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
 }
 .centerBottomLinks{
   margin:0 auto;
   text-align: center;
 }
-
 .projectsTitle {
-  padding-top: 20px;
-}
-.spacer {
-  margin-top: 70%;
+  padding-top: 30px;
+  color: white;
 }
 a {
   color: white;
 }
 .footerClass {
   margin-top: 100px;
+}
+.darkGrey {
+  color: #36454f;
 }
