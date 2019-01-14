@@ -24,7 +24,7 @@ body {
   background-image: url(Sunset-Cold-Mountains.jpg);
   text-align: center;
   color: white;
-  font-family: sans-serif;
+  font-family: 'Give You Glory', cursive;
 }
 header {
   position:  relative;
@@ -33,7 +33,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: sans-serif;
+  font-family: 'Give You Glory', cursive;
 }
 .container {
   width:100%;
