@@ -70,6 +70,7 @@ article {
   padding-left: 10px;
   padding-right: 10px;
   font-size: 35px;
+  color: white;
 }
 .fourthBlock {
   align-items: center;
@@ -132,4 +133,4 @@ a {
 #vocation {
   font-family: 'Noto Sans JP', sans-serif;
   font-size: 35px;
-}
+  color: white;
