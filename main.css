@@ -130,3 +130,7 @@ a {
 .darkGrey {
   color: #36454f;
 }
+#vocation {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 35px;
+}
