@@ -3,6 +3,7 @@ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
+  font-family: Lobster;
 }
 h2 {
   font-size: 35px;
@@ -17,7 +18,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 
-body {
+div {
   position:  relative;
   width: 100%;
   background-size: cover;
@@ -138,7 +139,7 @@ a {
   color: #36454f;
 }
 .name {
-  font-family: 'Rochester', cursive;
+  font-family: 'Lobster', cursive;
   font-size: 8.5rem;
   line-height: 8rem;
   text-shadow: 2px 1px 9px #222;
