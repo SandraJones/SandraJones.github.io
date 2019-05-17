@@ -138,9 +138,3 @@ a {
 .darkGrey {
   color: #36454f;
 }
-.name {
-  font-family: 'Lobster', cursive;
-  font-size: 8.5rem;
-  line-height: 8rem;
-  text-shadow: 2px 1px 9px #222;
-}
