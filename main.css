@@ -18,7 +18,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 
-div {
+body {
   position:  relative;
   width: 100%;
   background-size: cover;
