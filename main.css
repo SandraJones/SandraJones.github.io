@@ -1,32 +1,33 @@
-
-h1 {
+ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
-  font-family: Lobster;
+  padding-top: 100px;
+  color: #525252;
 }
 h2 {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 600;
   text-align: center;
-  color: rgba(255, 255, 255, 0.7);
+}
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
 }
 p {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
   text-align: center;
-  color: rgba(255, 255, 255, 0.7);
+  color: grey;
 }
 
 body {
-  position:  relative;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  background-image: url(Sunset-Cold-Mountains.jpg);
+  position: absolute; top: 0; left: 0;
+    background-image: url("MountainsAsBkGRNDCropped.jpg");
+    background-repeat: no-repeat;
   text-align: center;
-  color: white;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
 }
 header {
   position:  relative;
@@ -35,22 +36,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: 'Give You Glory', cursive;
-}
-#vocation {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-size: 35px;
-  color: white;
-  }
-.firstBlock{
-  align-items: center;
-  width: 60%;
-  margin-left: 20%;
-  margin-bottom: 2%;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-size: 35px;
-  color: #ffffff;
+  font-family: 'Cabin', Open Sans;
 }
 .container {
   width:100%;
@@ -71,6 +57,9 @@ article {
   padding-left: 10px;
   padding-right: 10px
 }
+.secondBlock {
+  color: #474c51;
+}
 .thirdBlock {
   align-items: center;
   width: 60%;
@@ -79,7 +68,6 @@ article {
   padding-left: 10px;
   padding-right: 10px;
 }
-
 .fourthBlock {
   align-items: center;
   width: 60%;
@@ -107,6 +95,7 @@ article {
   font-weight: 500;
   padding-left: 10px;
   padding-right: 10px;
+  color: grey;
 }
 .lastBlock {
   align-items: center;
@@ -115,6 +104,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
+  color: grey;
 }
 .black-text{
   margin: 0 auto; 
@@ -126,15 +116,42 @@ article {
   text-align: center;
 }
 .projectsTitle {
+  font-size: 50px;
+  font-family: Cabin, "Open Sans";
   padding-top: 30px;
-  color: white;
+  color: #474c51;
+  padding-bottom: 40px;
 }
 a {
-  color: #ffffff;
-}
-.footerClass {
-  margin-top: 100px;
+  color: grey;
 }
 .darkGrey {
   color: #36454f;
+}
+.MitchPhoto {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius:50%;
+  overflow:hidden;
+}
+.resume {
+  padding-bottom: 100px;
+  color: white;
+}
+footer {
+  color: grey;
+}
+.footerClass {
+  color: grey;
+}
+.vocation {
+  color: #525252;
+}
+.aboutMe {
+  color: #474c51;
+  font-size: 30px;
+  font-weight: 600;
+}
+.allInclusive {
+  background-color: #D4D5D6;
 }
