@@ -1,18 +1,18 @@
  h1 {
   font-size: 50px;
-  font-weight: 600;
+  font-weight: 100;
   text-align: center;
   padding-top: 100px;
   color: #525252;
 }
 h2 {
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 200;
   text-align: center;
 }
 h3 {
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 200;
   text-align: center;
 }
 p {
@@ -27,7 +27,7 @@ body {
     background-image: url("MountainsAsBkGRNDCropped.jpg");
     background-repeat: no-repeat;
   text-align: center;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 header {
   position:  relative;
@@ -36,7 +36,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: 'Cabin', Open Sans;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .container {
   width:100%;
@@ -53,7 +53,7 @@ article {
 .contentOne {
   font-size: 20px;
   text-align: left;
-  font-weight: 500;
+  font-weight: 200;
   padding-left: 10px;
   padding-right: 10px
 }
@@ -92,7 +92,7 @@ article {
 .contentSmall {
   font-size: 20px;
   text-align: left;
-  font-weight: 500;
+  font-weight: 200;
   padding-left: 10px;
   padding-right: 10px;
   color: grey;
@@ -117,7 +117,7 @@ article {
 }
 .projectsTitle {
   font-size: 50px;
-  font-family: Cabin, "Open Sans";
+  font-family: 'Open Sans Condensed', sans-serif;
   padding-top: 30px;
   color: #474c51;
   padding-bottom: 40px;
@@ -150,7 +150,7 @@ footer {
 .aboutMe {
   color: #474c51;
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 200;
 }
 .allInclusive {
   background-color: #D4D5D6;
