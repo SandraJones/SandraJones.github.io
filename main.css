@@ -1,25 +1,25 @@
  h1 {
   font-size: 50px;
-  font-weight: 100;
+  font-weight: 700;
   text-align: center;
   padding-top: 100px;
   color: #525252;
 }
 h2 {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: 700;
   text-align: center;
 }
 h3 {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 700;
   text-align: center;
 }
 p {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 700;
   text-align: center;
-  color: grey;
+  color: #474c51;
 }
 
 body {
@@ -53,7 +53,7 @@ article {
 .contentOne {
   font-size: 20px;
   text-align: left;
-  font-weight: 200;
+  font-weight: 700;
   padding-left: 10px;
   padding-right: 10px
 }
@@ -75,7 +75,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
-  color:  #36454f;
+  color:  #474c51;
 }
 .fifthBlock {
   align-items: center;
@@ -84,7 +84,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
-  color: #36454f;
+  color: #474c51;
 }
 .footer {
   text-align: center;
@@ -92,10 +92,10 @@ article {
 .contentSmall {
   font-size: 20px;
   text-align: left;
-  font-weight: 200;
+  font-weight: 700;
   padding-left: 10px;
   padding-right: 10px;
-  color: grey;
+  color: #474c51;
 }
 .lastBlock {
   align-items: center;
@@ -104,7 +104,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
-  color: grey;
+  color: #474c51;
 }
 .black-text{
   margin: 0 auto; 
@@ -124,9 +124,10 @@ article {
 }
 a {
   color: grey;
+  font-weight: 900;
 }
 .darkGrey {
-  color: #36454f;
+  color: #474c51;
 }
 .MitchPhoto {
   padding-top: 30px;
@@ -145,12 +146,12 @@ footer {
   color: grey;
 }
 .vocation {
-  color: #525252;
+  color: #474c51;
 }
 .aboutMe {
   color: #474c51;
   font-size: 30px;
-  font-weight: 200;
+  font-weight: 700;
 }
 .allInclusive {
   background-color: #D4D5D6;
